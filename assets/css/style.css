@@ -307,4 +307,8 @@ input[type=submit] {
         float: right;
     }
 
+    .contact-section {
+        padding: 30px;
+        margin: 0 0 40px;
+    }
 }
